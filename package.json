@@ -1,6 +1,6 @@
 { "name": "ewdliteclient", 
   "description": "Node.js Client module for accessing remote EWD Lite Web Services", 
-   "version": "0.1.3", 
+   "version": "0.1.4", 
    "author": "Rob Tweed <rtweed@mgateway.com>", 
    "repository": { 
      "type": "git", 
