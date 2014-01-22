@@ -1,6 +1,6 @@
-# EWD Lite Web Service Client: ewdliteclient
+# EWD.js Web Service Client: ewdliteclient
  
-Node.js Client for accessing remote EWD Lite Web Services
+Node.js Client for accessing remote EWD.js Web Services
 
 Rob Tweed <rtweed@mgateway.com>  
 19 June 2013, M/Gateway Developments Ltd [http://www.mgateway.com](http://www.mgateway.com)  
@@ -10,16 +10,16 @@ Twitter: @rtweed
 Google Group for discussions, support, advice etc: [http://groups.google.co.uk/group/enterprise-web-developer-community](http://groups.google.co.uk/group/enterprise-web-developer-community)
 
 
-## Installing the EWD Lite Web Service Client
+## Installing the EWD.js Web Service Client
 
        npm install ewdliteclient
 
 	   
-## Using the EWD Lite Web Service Client
+## Using the EWD.js Web Service Client
 
-For full information on EWD Lite and how to use the ewdliteclient module, #
-see: [http://gradvs1.mgateway.com/download/EWDLite.pdf]
-(http://gradvs1.mgateway.com/download/EWDLite.pdf)
+For full information on EWD.js and how to use the ewdliteclient module, #
+see: [http://gradvs1.mgateway.com/download/EWDjs.pdf]
+(http://gradvs1.mgateway.com/download/EWDjs.pdf)
 
 
 ## License
